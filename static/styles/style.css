@@ -1,0 +1,23 @@
+#mars_header {
+    background-color: darkgrey;
+    padding: 50px;
+    text-align: center;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: lightseagreen;
+    border: lightseagreen;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: lightslategrey;
+}
+
+#mars_news {
+    margin-top: 20px;
+}
+
+
